@@ -1,0 +1,19 @@
+body {
+    background-image: url(https://thumbs.dreamstime.com/b/mare-calmo-ispiratore-con-il-cielo-di-tramonto-oceano-meditazione-e-fondo-del-orizzonte-variopinto-sopra-l-acqua-138045589.jpg);
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    position: absolute;
+    padding: 20px;
+    top: 21%;
+    left: 27%;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 42%;
+}
